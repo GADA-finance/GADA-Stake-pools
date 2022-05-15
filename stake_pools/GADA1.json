@@ -3,5 +3,5 @@
     "description": "GADA Finance stakepool 1: 100% GADA rewards. The official stake pool of the GADA Finance project",
     "ticker": "GADA",
     "homepage": "https://www.gada.finance",
-    "extended": ""
+    "extended": "https://github.com/GADA-finance/GADA-Stake-pools/blob/main/poolMetaDataExtended.json"
 }
