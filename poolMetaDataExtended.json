@@ -5,7 +5,10 @@
         "social": {
             "twitter_handle": "GADALaunchpad",
             "telegram_handle": "gadachat",
-            "github_handle": "Gada-finance"
+            "github_handle": "Gada-finance",
+            "medium": "gadalaunchpad",
+            "website": "https://www.gada.finance",
+            "linkedin": "https://www.linkedin.com/company/gada-finance/"
         }
     }
 }
