@@ -1,7 +1,7 @@
 {
-    "name": "GADA1",
+    "name": "GADA Finance",
     "description": "GADA Finance stakepool 1: 100% GADA rewards. The official stake pool of the GADA Finance project",
-    "ticker": "GADA",
+    "ticker": "GADA1",
     "homepage": "https://www.gada.finance",
     "extended": "https://github.com/GADA-finance/GADA-Stake-pools/blob/main/poolMetaDataExtended.json"
 }
