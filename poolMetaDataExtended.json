@@ -1,6 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/GADA-finance/GADA-Stake-pools/blob/main/gada_ispo_01.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/GADA-finance/GADA-Stake-pools/main/gada_ispo_01.png",
+        "url_png_logo": "https://raw.githubusercontent.com/GADA-finance/GADA-Stake-pools/main/gada_ispo_01.png",
         "location": "Lisbon, Portugal",
         "social": {
             "twitter_handle": "GADALaunchpad",
@@ -10,5 +11,8 @@
             "website": "https://www.gada.finance",
             "linkedin": "https://www.linkedin.com/company/gada-finance/"
         }
+    },
+    "my-pool-ids": {
+        "0": "b253e36605e45bd5151776eed3bfd5594feaef326824c24850cf1e68"
     }
 }
